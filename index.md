@@ -2,122 +2,44 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Current Projects
 
-[Link to another page](./another-page.html).
+### 1. Grand Vision Centre
 
-There should be whitespace between paragraphs.
+Grand Vision Centre is a eyewear shop located in Greenhills, San Juan. The static shop is website built using Wordpress and hosted in Bluehost. The site features a product catalog, contact form and appointment system via [appointments.grandvisioncentre.com](http://appointment.grandivisoncentre.com)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Link to Site](http://www.grandvisioncentre.com)
 
-# Header 1
+### 2. AGC Print (Under Construction)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+A static website built using Express and Bulma (SASS Framework). The website is for a printing company based in Makati City, Philippines.
 
-## Header 2
+[Link to Site](http://www.agcprint.herokuapp.com)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Other Past Projects
 
-### Header 3
+### 1. Baked Goods Website
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+A baked goods website built for my Applications Development Class together with Giancarlo Tee. The site was built using the Express.JS framework on top of nodeJS using Bulma as the front-end framework.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[Link to Site](http://www.baked-goods-ph.herokuapp.com)
 
-#### Header 4
+### 2. Enrollment System
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+A basic enrollment system built using Java's JSP framework and MySQL for my Information Management class. Built together with Yeohan Norona, Alner Bacayan and Maria Isabel Tendido.
 
-##### Header 5
+[Link to Github Code](http://www.baked-goods-ph.herokuapp.com)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### 3. Game of Life Board Game
 
-###### Header 6
+A turn-based board game desktop application built on top of the Java programming language for my Object Oriented Class. Built together with Azriel Ortega.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[Link to Github Code](http://www.baked-goods-ph.herokuapp.com)
 
-### There's a horizontal rule below this.
+### 4. Mastermind
 
-* * *
+A turn-based, text-based board game desktop application built on top of the C programming language for my Intro to C programming class.
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[Link to Github Code](http://www.baked-goods-ph.herokuapp.com)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
