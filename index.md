@@ -35,7 +35,7 @@ A static website built using Express and Bulma (SASS Framework). The website is 
 
 A baked goods website built for my Applications Development Class together with Giancarlo Tee. The site was built using the Express.JS framework on top of nodeJS using Bulma as the front-end framework.
 
-[Link to Site](http://www.baked-goods-ph.herokuapp.com)
+[Link to Site](https://baked-goods-ph.herokuapp.com/)
 
 ### 2. Enrollment System
 
