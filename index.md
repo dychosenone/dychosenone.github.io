@@ -27,7 +27,7 @@ Grand Vision Centre is a eyewear shop located in Greenhills, San Juan. The stati
 
 A static website built using Express and Bulma (SASS Framework). The website is for a printing company based in Makati City, Philippines.
 
-[Link to Site](http://www.agcprint.herokuapp.com)
+[Link to Site](https://agcprint.herokuapp.com/)
 
 # Other Past Projects
 
