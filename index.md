@@ -19,7 +19,7 @@ Software Development
 
 ### 1. Grand Vision Centre
 
-Grand Vision Centre is a eyewear shop located in Greenhills, San Juan. The static shop is website built using Wordpress and hosted in Bluehost. The site features a product catalog, contact form and appointment system via [appointments.grandvisioncentre.com](http://appointment.grandivisoncentre.com)
+Grand Vision Centre is a eyewear shop located in Greenhills, San Juan. The static shop is website built using Wordpress and hosted in Bluehost. The site features a product catalog, contact form and appointment system via [appointments.grandvisioncentre.com](http://appointment.grandvisioncentre.com)
 
 [Link to Site](http://www.grandvisioncentre.com)
 
@@ -41,7 +41,7 @@ A baked goods website built for my Applications Development Class together with 
 
 A basic enrollment system built using Java's JSP framework and MySQL for my Information Management class. Built together with Yeohan Norona, Alner Bacayan and Maria Isabel Tendido.
 
-[Link to Github Code](http://www.baked-goods-ph.herokuapp.com)
+[Link to Github Code](https://github.com/dychosenone/CCINFOM-Enrollment-Grp3/)
 
 ### 3. Game of Life Board Game
 
