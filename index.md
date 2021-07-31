@@ -47,7 +47,7 @@ A basic enrollment system built using Java's JSP framework and MySQL for my Info
 
 A turn-based board game desktop application built on top of the Java programming language for my Object Oriented Class. Built together with Azriel Ortega.
 
-[Link to Github Code](http://www.baked-goods-ph.herokuapp.com)
+[Link to Github Code](https://github.com/dychosenone/Thats-Life)
 
 ### 4. Mastermind
 
