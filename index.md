@@ -2,6 +2,19 @@
 layout: default
 ---
 
+Hi! I am Jacob Miguel Dy, a 2nd Year undergraduate student taking up Bachelor of Science in Computer Science major in Software Technology at De La Salle University - Manila. I am also a freelance web developer specializing in front end web development and design. I also specialize in adobe applications including Photoshop, Illustrator, InDesign, Premiere and After Effects.
+
+## Current Tech Stack
+Web Development
+- Node.JS
+- Express
+- Vue.JS and Nuxt.JS
+- CSS and SASS
+
+Software Development
+- Java (For Desktop and Mobile Development)
+- Python
+
 # Current Projects
 
 ### 1. Grand Vision Centre
