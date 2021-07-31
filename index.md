@@ -53,6 +53,6 @@ A turn-based board game desktop application built on top of the Java programming
 
 A turn-based, text-based board game desktop application built on top of the C programming language for my Intro to C programming class.
 
-[Link to Github Code](http://www.baked-goods-ph.herokuapp.com)
+[Link to Github Code](https://github.com/dychosenone/CCPROG1-Mastermind)
 
 
